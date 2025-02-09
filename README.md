@@ -1,4 +1,4 @@
-Hi 👋 My name is Ephraim Youssef
+Ephraim Youssef
 ================================
 
 Software Engineer
@@ -6,9 +6,9 @@ Software Engineer
 
 I am a third-year Computer Science student at the Faculty of Computers and Artificial Intelligence – Cairo University, with a strong passion for full-stack web development. I specialize in the MERN stack (MongoDB, Express, React, Node.js, Next.js) and Spring Boot, focusing on building scalable, high-performance applications. With a deep interest in software architecture, performance optimization, and problem-solving, I am continuously expanding my technical expertise. I enjoy working on innovative projects, contributing to open-source, and collaborating with like-minded professionals.
 
-* 🌍  I'm based in Giza, Egypt.
-* ✉️  You can contact me at [ephraim.youssf@gmail.com](mailto:ephraim.youssf@gmail.com)
-* 🚀  I'm currently working on [Bistro-Bliss Restaurant website](http://github.com/EphraimYoussef/BistroBliss-MERN-Stack-Project)
+*  I'm based in Giza, Egypt.
+*  You can contact me at [ephraim.youssf@gmail.com](mailto:ephraim.youssf@gmail.com)
+*  I'm currently working on [Bistro-Bliss Restaurant website](http://github.com/EphraimYoussef/BistroBliss-MERN-Stack-Project)
 
 ### Skills
 
@@ -24,12 +24,10 @@ I am a third-year Computer Science student at the Faculty of Computers and Artif
 
 ### Badges
 
-<a href="https://github.com/EphraimYoussef" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EphraimYoussef&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/EphraimYoussef/Shopwise-ECommerce-Front-End-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EphraimYoussef&repo=Shopwise-ECommerce-Front-End-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/EphraimYoussef/BistroBliss-MERN-Stack-Project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EphraimYoussef&repo=BistroBliss-MERN-Stack-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/EphraimYoussef/Shopwise-ECommerce-Front-End-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EphraimYoussef&repo=Shopwise-ECommerce-Front-End-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/EphraimYoussef/BistroBliss-MERN-Stack-Project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EphraimYoussef&repo=BistroBliss-MERN-Stack-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/EphraimYoussef/Online-Library-Website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EphraimYoussef&repo=Online-Library-Website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/EphraimYoussef/Learning-Management-System" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EphraimYoussef&repo=Learning-Management-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
