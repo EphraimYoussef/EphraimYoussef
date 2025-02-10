@@ -9,6 +9,7 @@ I am a third-year Computer Science student at the Faculty of Computers and Artif
 * I'm based in Giza, Egypt.
 * You can contact me at [ephraim.youssf@gmail.com](mailto:ephraim.youssf@gmail.com)
 * I'm currently working on [Bistro-Bliss Restaurant website](http://github.com/EphraimYoussef/BistroBliss-MERN-Stack-Project)
+* I'm learning Web Development.
 
 ### Skills
 
