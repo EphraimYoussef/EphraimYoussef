@@ -9,7 +9,7 @@ I am a third-year Computer Science student at the Faculty of Computers and Artif
 * I'm based in Giza, Egypt.
 * You can contact me at [ephraim.youssf@gmail.com](mailto:ephraim.youssf@gmail.com)
 * You can find my resume at [Ephraim-Youssef-Resume](https://drive.google.com/file/d/1a_jUfTQd-ohizpighMKQLimHjXwW53f_/view?usp=sharing)
-* I'm learning Web Development ( MERN-Satck ).
+* I'm learning Web Development.
 
 ### Skills
 
