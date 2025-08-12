@@ -11,7 +11,7 @@ I am a Computer Science student at the Faculty of Computers and Artificial Intel
 * You can find my resume at [Ephraim-Youssef-Resume](https://drive.google.com/file/d/1a_jUfTQd-ohizpighMKQLimHjXwW53f_/view?usp=sharing)
 
 
-## Socials:
+# Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ephraimyoussef) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ephraim.youssf@gmail.com) 
 
 # Tech Stack:
